@@ -19,7 +19,7 @@ A user can enter information into one field only or in multiple fields. When the
 
 ![Search entered for city = El Cajon](https://github.com/larabjork/ufos/blob/main/static/images/search_city_el_cajon.png)
 
-When the user enters "triangle" as the object's shape, the table data is further filtered on both criteria (city and shape), limiting the results to four of the previous five records, as shown below.
+When the user enters "triangle" as the object's shape, the table data is further filtered on both criteria (city and shape), limiting the results to two of the previous five records, as shown below.
 
 ![Search entered for city = El Cajon and shape = triangle ](https://github.com/larabjork/ufos/blob/main/static/images/search_city_and_shape.png)
 
